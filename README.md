@@ -9,6 +9,7 @@
    + EC2FullAcces
    + S3FullAccess  ..etc
    + Administrator Access
+   + IAMFullAccess
 + Attach IAM Role to EC2 Instance.
 ### CREATE an admin user to manage our EKS Cluster
 ```sh
